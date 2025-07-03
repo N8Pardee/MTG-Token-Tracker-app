@@ -8,3 +8,5 @@ The goal is to create a simple to use application that can create creature token
 
   FUTURE IDEA:
   Add a summoning sickness capability for newly generated tokens
+  Add counters to app
+  Manage life total
