@@ -1,0 +1,16 @@
+CLASSES:
+Parent - Token
+  Child - Creature
+  Child - Treasure
+  Child - Clue
+  Child - Food
+  Child - Artifact
+  Child - Energy
+
+
+ATTRRIBUTES:
+  -Token: string(-)name = " ", bool(-)tappedStatus False, bool(-)summonSickStatus True
+
+METHODS:
+  -Token: (+)TapToken, (+)setName, (+)getName, (+)Summon
+  
